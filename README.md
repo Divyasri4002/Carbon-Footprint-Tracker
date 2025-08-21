@@ -8,7 +8,6 @@ A modern web app to calculate and track your daily CO₂ emissions with a beauti
 - **Visualize your day** with clear status badges and a friendly result card
 - **Break down contributions** by category with animated bars
 - **Track your progress** on the History page with trends and insights
-- **Enjoy a delightful UI** with gradients, glass effects, and smooth motion
 
 ## 🧮 How we calculate
 
